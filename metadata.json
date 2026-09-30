@@ -1,0 +1,6 @@
+{
+  "name": "SMA Negeri 1 Nusantara - Portal Sekolah & SIMS",
+  "description": "Portal resmi SMA Negeri 1 Nusantara dengan sistem penerimaan PPDB online, direktori akademik, galeri prestasi, dan dashboard administrator SIMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
